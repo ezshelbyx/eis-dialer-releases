@@ -21,3 +21,10 @@ notes with the file you downloaded.
 E.I.S Dialer is proprietary software, licensed All Rights Reserved.
 Copying, modification, redistribution or commercial use requires written
 permission from E.I.S.
+
+## License
+
+Proprietary — All Rights Reserved. See [LICENSE](LICENSE). The APK may be
+downloaded and installed for personal use on your own devices; copying,
+modifying, redistributing or commercially using the app, its screenshots or
+its code requires written permission from E.I.S.
