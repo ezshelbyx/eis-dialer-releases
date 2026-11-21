@@ -4,6 +4,16 @@ Public download repository for signed **E.I.S Dialer** APKs.
 
 - Latest APK: see [Releases](../../releases/latest)
 
+## Screenshots
+
+| Recents | Keypad | Incoming |
+| --- | --- | --- |
+| ![Recents](screenshots/dialer-recents.png) | ![Keypad](screenshots/dialer-keypad.png) | ![Incoming](screenshots/dialer-incoming.png) |
+| **Active call** | **Contacts** | **Favorites** |
+| ![Active call](screenshots/dialer-active-call.png) | ![Contacts](screenshots/dialer-contacts.png) | ![Favorites](screenshots/dialer-favorites.png) |
+| **Outgoing** | | |
+| ![Outgoing](screenshots/dialer-outgoing.png) | | |
+
 Each release carries the signed APK for that version, tagged with the app's
 version number (for example `v1.2.0`). Compare the SHA-256 shown in the release
 notes with the file you downloaded.
